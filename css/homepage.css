@@ -232,15 +232,15 @@ canvas {
 }
 
 .company-1 a img:hover {
-    content: url(img/gj-color.jpg);
+    content: url(https://raw.githubusercontent.com/diana0822/samoi-test/main/gj-color.jpg);
 }
 
 .company-2 a img:hover {
-    content: url(img/hf-color.jpg);
+    content: url(https://raw.githubusercontent.com/diana0822/samoi-test/main/hf-color.jpg);
 }
 
 .company-3 a img:hover {
-    content: url(img/PB-color.jpg);
+    content: url(https://raw.githubusercontent.com/diana0822/samoi-test/main/PB-color.jpg);
 }
 
 .our-partners {
@@ -275,11 +275,11 @@ canvas {
 }
 
 .partner-1 img:hover {
-    content: url(img/project-1-color.jpg);
+    content: url(https://raw.githubusercontent.com/diana0822/samoi-test/main/project-1-color.jpg);
 }
 
 .partner-2 img:hover {
-    content: url(img/ethanvision-1-color.jpg);
+    content: url(https://raw.githubusercontent.com/diana0822/samoi-test/main/ethanvision-1-color.jpg);
 }
 
 .background-white2 {
